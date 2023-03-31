@@ -11,52 +11,52 @@ let songs = [
   {
     songName: "O-Bedardeya",
     filepath: "/songs/1.mp3",
-    coverPath: "/covers/1.jpg",
+    coverPath: "covers/1.jpg",
   },
   {
     songName: "Kahani Suno",
     filepath: "/songs/2.mp3",
-    coverPath: "/covers/2.jpg",
+    coverPath: "covers/2.jpg",
   },
   {
     songName: "Kesariya",
     filepath: "/songs/3.mp3",
-    coverPath: "/covers/3.jpg",
+    coverPath: "covers/3.jpg",
   },
   {
     songName: "Deva Deva",
     filepath: "/songs/4.mp3",
-    coverPath: "/covers/4.jpg",
+    coverPath: "covers/4.jpg",
   },
   {
     songName: "Rattan Lambiya",
     filepath: "/songs/5.mp3",
-    coverPath: "/covers/5.jpg",
+    coverPath: "covers/5.jpg",
   },
   {
     songName: "Le Le ROM ROM",
     filepath: "/songs/6.mp3",
-    coverPath: "/covers/6.jpg",
+    coverPath: "covers/6.jpg",
   },
   {
     songName: "Jhoome Jo Pathan",
     filepath: "/songs/7.mp3",
-    coverPath: "/covers/7.jpg",
+    coverPath: "covers/7.jpg",
   },
   {
     songName: "Mann Bharya",
     filepath: "/songs/8.mp3",
-    coverPath: "/covers/8.jpg",
+    coverPath: "covers/8.jpg",
   },
   {
     songName: "Chitta",
     filepath: "/songs/9.mp3",
-    coverPath: "/covers/9.jpg",
+    coverPath: "covers/9.jpg",
   },
   {
     songName: "Mere Yaara",
     filepath: "/songs/10.mp3",
-    coverPath: "/covers/10.jpg",
+    coverPath: "covers/10.jpg",
   },
 ];
 songItems.forEach((element,i) => {
